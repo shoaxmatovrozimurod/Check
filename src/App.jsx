@@ -1,10 +1,8 @@
-import React from 'react'
+import React, { useState } from 'react'
 import './App.css'
-
-const App = () => {
-  return (
-    <div>App</div>
-  )
+function App() {
+  const [count, setCount ] = useState(9)
 }
+
 
 export default App
