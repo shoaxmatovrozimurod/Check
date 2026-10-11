@@ -1,8 +1,14 @@
-import React from 'react'
+import React, { useState } from 'react'
+import './Header.css'
 
 const Header = () => {
+    const = [caunt, setCaunt] = useState(0);
+
+
   return (
-    <div>Header</div>
+    <header className='header'>
+        
+    </header>
   )
 }
 
