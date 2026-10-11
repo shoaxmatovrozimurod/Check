@@ -1,0 +1,28 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    background-color: green;
+}
+.container{
+    max-width: 1200px;
+    align-items: center;
+    text-align: center;
+
+}
+header{
+    padding: 200px;
+}
+
+.caunter{
+   display: flex;
+   gap: 20px;
+}
+.btn{
+    margin-top: 23px;
+    padding: 13px 54px;
+    background-color: aliceblue;
+    border-radius: 9px;
+    font-size: 19px;
+    font-family: sans-serif;
+    color: blue;
+}
